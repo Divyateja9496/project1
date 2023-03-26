@@ -1,2 +1,2 @@
-FROM php:7.0-apachejdkfj
+FROM php:7.0-apache
 COPY . /var/www/php
